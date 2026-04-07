@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Chayan Samanta
 
-<!--
-**Chayan7031/Chayan7031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Engineer | React Developer | AI Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🎓 CSE Student (2nd Year)
+- 💡 Building projects like DevConnect & GitaVerse
+- 🔥 Passionate about Web Development & AI
+- 📍 India
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: C++, JavaScript
+- 🌐 Frontend: React, Tailwind CSS
+- ⚙️ Backend: Node.js, FastAPI
+- 🗄️ Database: PostgreSQL
+- ☁️ Tools: Git, Docker, Vercel
+
+---
+
+## 📌 Featured Projects
+### 🔥 DevConnect
+A developer portfolio platform  
+👉 Live: (link)  
+👉 Code: (repo link)
+
+### 🕉️ GitaVerse
+AI-powered spiritual platform  
+👉 Features: Chatbot, Map, Gita Reader
+
+---
+
+## 📊 GitHub Stats
+(Add stats images here)
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: (link)
+- Email: (email)
