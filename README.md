@@ -1,6 +1,5 @@
 <!-- 🔥 HEADER -->
-<!-- <img src="https://github.com/user-attachments/assets/45d2204e-bdca-430c-ba3e-98e7e06812a2" /> -->
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZLS632IpBzrWh-g5MjZts8uQ3X_JMR9FTqg&s" />
+<img src="https://github.com/user-attachments/assets/45d2204e-bdca-430c-ba3e-98e7e06812a2" /> 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ChayanSamanta.ChayanSamanta" />
 
